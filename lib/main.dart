@@ -158,12 +158,12 @@ class _HomePageState extends State<HomePage> {
                       backgroundColor: Colors.black,
                     ),
                     child: const Text(
-                      "Reset",
+                      "RESET",
                       style: TextStyle(
                         fontFamily: 'Indie',
                         color: Colors.white,
                         fontWeight: FontWeight.w600,
-                        fontSize: 25,
+                        fontSize: 20,
                       ),
                     ),
                   ),
